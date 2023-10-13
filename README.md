@@ -2,6 +2,6 @@
 basic DSA problem sum of row. <br>
 It specifies : To find sum of given row in a  given matrix.
 
-# Solution 
+# Data Structure USED
 Solving using Arrays and Loops
 
